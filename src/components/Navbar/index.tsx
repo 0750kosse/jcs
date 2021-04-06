@@ -1,25 +1,35 @@
 import React from 'react'
 import styled from 'styled-components'
+import { mediaQueries } from '../../mediaqueries'
 
 const Navigation = styled.nav`
 display: flex;
 flex-direction: column;
 align-items: center;
+width: 100%;
+${mediaQueries('tablet')`
+flex-flow:row nowrap;
+height:8rem;
+`}
 `
-const Title = styled.h2``
+const Title = styled.h2`
+${mediaQueries('tablet')`
+width:100%;
+margin-left:1rem;
+`}
+`
 
 const List = styled.ul`
 display:flex;
 flex-flow: row nowrap;
-width: 100%;
 justify-content: space-evenly;
+width: 100%;
+padding:0;
 `
 const Link = styled.li`
 list-style-type:none;
 `
-
 const navBarTitles = ['about', 'projects', 'contact']
-
 const navItems = navBarTitles.map(title => {
   let href = `${title}`
   return (

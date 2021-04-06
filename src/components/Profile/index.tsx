@@ -3,23 +3,38 @@ import styled from 'styled-components'
 import { ProfileProps } from '../../types'
 import Button from '../Button'
 import ProfilePic from '../../lib/images/profilePic.jpeg'
+import { mediaQueries } from '../../mediaqueries'
 
 const ColToRow = styled.div`
 display:flex;
 flex-direction: row;
 justify-content: space-evenly;
-width: 100%;
+width:100%;
+${mediaQueries('tablet')`
+width: 50%;
+`}
 `
 
 const Container = styled.div`
 display:flex;
 flex-direction: column;
 align-items: center;
+${mediaQueries('tablet')`
+flex-flow:row wrap;
+justify-content: space-evenly;
+`}
+`
+const Header = styled.h1`
+width:100%;
 text-align: center;
 `
-const Header = styled.h1``
 
-const SubHeader = styled.h2``
+const SubHeader = styled.h2`
+margin: 2rem 1rem;
+${mediaQueries('tablet')`
+width:60%;
+`}
+`
 
 const Image = styled.img`
 max-width: 15rem;

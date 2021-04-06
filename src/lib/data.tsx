@@ -18,8 +18,8 @@ const projects: ProjectProps[] = [
 ]
 
 const profile: ProfileProps = {
-  header: "Front End Dev for Hire",
-  subheader: "Hey there, I'm Jose! I'm a passionate software. Currently living in London and originally from Barcelona (...yes, I know) For the past two years, I've been teaching myself to code and currently seeking an entry level Front End Dev role",
+  header: "Front End Dev",
+  subheader: "Hey there, I'm Jose! I'm a passionate software developer. Currently living in London and originally from Barcelona. For the past two years, I've been teaching myself to code and currently seeking an entry level Front End Dev role",
   image: '',
   cta: true,
   ctaText: ['Learn More', 'Contact']
