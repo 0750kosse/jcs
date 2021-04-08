@@ -1,45 +1,31 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Profile component should match the snapshot 1`] = `
+exports[`About component should match the snapshot 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
       <div
-        class="sc-dlfnbm fJnBsZ"
+        class="sc-bdfBwQ IKSFh"
       >
         <h1
-          class="sc-hKgILt bcYGRj profile__header"
+          class="sc-gsTCUz"
         />
-        <img
-          class="sc-jSgupP eJwatr"
-          src="profilePic.jpeg"
-        />
-        <h2
-          class="sc-eCssSg eFvELq"
-        />
-        <div
-          class="sc-gsTCUz Gjuml profile__button"
+        <p
+          class="sc-dlfnbm gquITC"
         />
       </div>
     </div>
   </body>,
   "container": <div>
     <div
-      class="sc-dlfnbm fJnBsZ"
+      class="sc-bdfBwQ IKSFh"
     >
       <h1
-        class="sc-hKgILt bcYGRj profile__header"
+        class="sc-gsTCUz"
       />
-      <img
-        class="sc-jSgupP eJwatr"
-        src="profilePic.jpeg"
-      />
-      <h2
-        class="sc-eCssSg eFvELq"
-      />
-      <div
-        class="sc-gsTCUz Gjuml profile__button"
+      <p
+        class="sc-dlfnbm gquITC"
       />
     </div>
   </div>,

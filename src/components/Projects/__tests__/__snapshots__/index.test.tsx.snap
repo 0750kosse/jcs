@@ -1,45 +1,57 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Profile component should match the snapshot 1`] = `
+exports[`Projects component should match the snapshot 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
       <div
-        class="sc-dlfnbm fJnBsZ"
+        class="sc-gsTCUz vwjqD project__wrapper--item"
       >
-        <h1
-          class="sc-hKgILt bcYGRj profile__header"
-        />
-        <img
-          class="sc-jSgupP eJwatr"
-          src="profilePic.jpeg"
-        />
         <h2
-          class="sc-eCssSg eFvELq"
+          class="sc-dlfnbm"
         />
-        <div
-          class="sc-gsTCUz Gjuml profile__button"
+        <h3
+          class="sc-hKgILt"
+        />
+        <h4
+          class="sc-eCssSg"
+        />
+        <button
+          aria-label="button"
+          class="sc-bdfBwQ cmUMmu"
+        >
+          Live Demo
+        </button>
+        <button
+          aria-label="button"
+          class="sc-bdfBwQ cmUMmu"
         />
       </div>
     </div>
   </body>,
   "container": <div>
     <div
-      class="sc-dlfnbm fJnBsZ"
+      class="sc-gsTCUz vwjqD project__wrapper--item"
     >
-      <h1
-        class="sc-hKgILt bcYGRj profile__header"
-      />
-      <img
-        class="sc-jSgupP eJwatr"
-        src="profilePic.jpeg"
-      />
       <h2
-        class="sc-eCssSg eFvELq"
+        class="sc-dlfnbm"
       />
-      <div
-        class="sc-gsTCUz Gjuml profile__button"
+      <h3
+        class="sc-hKgILt"
+      />
+      <h4
+        class="sc-eCssSg"
+      />
+      <button
+        aria-label="button"
+        class="sc-bdfBwQ cmUMmu"
+      >
+        Live Demo
+      </button>
+      <button
+        aria-label="button"
+        class="sc-bdfBwQ cmUMmu"
       />
     </div>
   </div>,

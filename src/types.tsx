@@ -14,3 +14,8 @@ export interface ProfileProps {
   cta?: boolean,
   ctaText?: string[]
 }
+
+export interface AboutSection {
+  title: string,
+  description: string
+}

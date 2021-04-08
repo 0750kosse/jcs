@@ -41,9 +41,8 @@ max-width: 15rem;
 height:15rem;
 border-radius: 50%;
 `
-
 export default (props: ProfileProps) => {
-  const { header, subheader, image, cta, ctaText } = props
+  const { header, subheader, cta, ctaText } = props
   return (
     <Container>
       <Header className="profile__header">{header}</Header>

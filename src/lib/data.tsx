@@ -1,12 +1,26 @@
-import { ProjectProps, ProfileProps } from '../types'
+import { ProjectProps, ProfileProps, AboutSection } from '../types'
 
 const projects: ProjectProps[] = [
   {
     header: 'St. Joseph´s Highgate',
     subheader: 'Website revamping for a responsive, modern and accessible feel',
-    stack: 'HTML, CSS, JS',
+    stack: 'HTML, CSS, Vanilla JS',
     demo: 'https://demo-stjosephs.netlify.app/',
     github: 'https://github.com/0750kosse/StJosephs'
+  },
+  {
+    header: 'PetBuddy',
+    subheader: 'Where your pet becomes their buddy',
+    stack: 'ReactJs, Typescript',
+    demo: 'Coming soon',
+    github: 'https://github.com/t0nin0s/petbuddy-website'
+  },
+  {
+    header: 'PetBuddy',
+    subheader: 'Where your pet becomes their buddy',
+    stack: 'ReactJs, Typescript',
+    demo: 'Coming soon',
+    github: 'https://github.com/t0nin0s/petbuddy-website'
   },
   {
     header: 'PetBuddy',
@@ -25,4 +39,9 @@ const profile: ProfileProps = {
   ctaText: ['Learn More', 'Contact']
 }
 
-export { projects, profile }
+const about: AboutSection = {
+  title: 'Projects',
+  description: "Find below a few side projects that I have been building from scratch in which I put to use the different languages learnt. Next stop in my learning bucket list are Python and Svelte, so watch this space…"
+}
+
+export { projects, profile, about }
