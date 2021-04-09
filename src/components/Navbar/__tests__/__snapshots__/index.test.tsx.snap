@@ -7,44 +7,44 @@ Object {
     <div>
       <nav
         aria-label="Main Menu"
-        class="sc-bdfBwQ jPduLo"
+        class="sc-bdfBwQ cMdjKF"
       >
         <h2
-          class="sc-gsTCUz visuallyhidden"
+          class="sc-gsTCUz eTrxMB visuallyhidden"
         >
           jose c. sanchez
         </h2>
         <ul
-          class="sc-dlfnbm jesRKD nav navbar-nav"
+          class="sc-dlfnbm jHfWHJ nav navbar-nav"
         >
           <li
-            class="sc-hKgILt kEnkMv nav-item"
+            class="sc-hKgILt brJYqT nav-item"
           >
             <a
               class="nav-link"
-              href="about"
+              href="about "
             >
                
               about
             </a>
           </li>
           <li
-            class="sc-hKgILt kEnkMv nav-item"
+            class="sc-hKgILt brJYqT nav-item"
           >
             <a
               class="nav-link"
-              href="projects"
+              href="projects "
             >
                
               projects
             </a>
           </li>
           <li
-            class="sc-hKgILt kEnkMv nav-item"
+            class="sc-hKgILt brJYqT nav-item"
           >
             <a
               class="nav-link"
-              href="contact"
+              href="contact "
             >
                
               contact
@@ -57,44 +57,44 @@ Object {
   "container": <div>
     <nav
       aria-label="Main Menu"
-      class="sc-bdfBwQ jPduLo"
+      class="sc-bdfBwQ cMdjKF"
     >
       <h2
-        class="sc-gsTCUz visuallyhidden"
+        class="sc-gsTCUz eTrxMB visuallyhidden"
       >
         jose c. sanchez
       </h2>
       <ul
-        class="sc-dlfnbm jesRKD nav navbar-nav"
+        class="sc-dlfnbm jHfWHJ nav navbar-nav"
       >
         <li
-          class="sc-hKgILt kEnkMv nav-item"
+          class="sc-hKgILt brJYqT nav-item"
         >
           <a
             class="nav-link"
-            href="about"
+            href="about "
           >
              
             about
           </a>
         </li>
         <li
-          class="sc-hKgILt kEnkMv nav-item"
+          class="sc-hKgILt brJYqT nav-item"
         >
           <a
             class="nav-link"
-            href="projects"
+            href="projects "
           >
              
             projects
           </a>
         </li>
         <li
-          class="sc-hKgILt kEnkMv nav-item"
+          class="sc-hKgILt brJYqT nav-item"
         >
           <a
             class="nav-link"
-            href="contact"
+            href="contact "
           >
              
             contact

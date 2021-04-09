@@ -19,7 +19,8 @@ justify-content: space-evenly;
 const App = () => {
   return (
     <div className="App">
-      <NavBar />
+      <NavBar
+      />
       <Profile
         header={profile.header}
         subheader={profile.subheader}

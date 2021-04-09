@@ -19,3 +19,7 @@ export interface AboutSection {
   title: string,
   description: string
 }
+
+export interface NavBarProps {
+  scrollY?: any
+}
