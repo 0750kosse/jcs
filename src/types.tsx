@@ -15,7 +15,7 @@ export interface ProfileProps {
   ctaText?: string[]
 }
 
-export interface AboutSection {
+export interface InfoProps {
   title: string,
   description: string
 }

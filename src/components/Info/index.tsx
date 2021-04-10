@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { AboutSection } from '../../types'
+import { InfoProps } from '../../types'
 
 const Container = styled.div`
 display: flex;
@@ -17,7 +17,7 @@ font-size: 20px;
 padding:0 1rem;
 `
 
-export default (props: AboutSection) => {
+export default (props: InfoProps) => {
   const { title, description } = props
   return (
     <Container>

@@ -2,9 +2,9 @@ import React from 'react';
 import styled from 'styled-components'
 import { mediaQueries } from './mediaqueries'
 import NavBar from './components/Navbar'
-import { profile, projects, about } from './lib/data';
+import { profile, projects, about, contact } from './lib/data';
 import Profile from './components/Profile'
-import About from './components/About'
+import Info from './components/Info'
 import Project from './components/Projects'
 
 const ColToRowWrapper = styled.div`
@@ -27,7 +27,7 @@ const App = () => {
         ctaText={profile.ctaText}
         image={profile.image}
       />
-      <About
+      <Info
         title={about.title}
         description={about.description} />
       <ColToRowWrapper className="project__wrapper">
@@ -39,11 +39,14 @@ const App = () => {
             subheader={subheader}
             stack={stack}
             demo={demo}
-            github="Github"
+            github={github}
           />
         })
         }
       </ColToRowWrapper>
+      <Info
+        title={contact.title}
+        description={contact.description} />
     </div>
   );
 }

@@ -1,4 +1,4 @@
-import { ProjectProps, ProfileProps, AboutSection } from '../types'
+import { ProjectProps, ProfileProps, InfoProps } from '../types'
 
 const projects: ProjectProps[] = [
   {
@@ -39,9 +39,14 @@ const profile: ProfileProps = {
   ctaText: ['Learn More', 'Contact']
 }
 
-const about: AboutSection = {
+const about: InfoProps = {
   title: 'Projects',
   description: "Find below a few side projects that I have been building from scratch in which I put to use the different languages learnt. Next stop in my learning bucket list are Python and Svelte, so watch this space…"
 }
 
-export { projects, profile, about }
+const contact: InfoProps = {
+  title: 'Get in touch',
+  description: 'It will be great to hear from you! Feel free to contact me for questions, or just to say hola!'
+}
+
+export { projects, profile, about, contact }

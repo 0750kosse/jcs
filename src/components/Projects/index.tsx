@@ -43,7 +43,7 @@ export default (props: ProjectProps) => {
       <SubHeader>{subheader}</SubHeader>
       <Paragraph>{stack}</Paragraph>
       <Button src={demo}>Live Demo</Button>
-      <Button>{github}</Button>
+      <Button>Github</Button>
     </Content>
   )
 }
