@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Projects component should match the snapshot 1`] = `
+exports[`Project component should match the snapshot 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
@@ -26,7 +26,9 @@ Object {
         <button
           aria-label="button"
           class="sc-bdfBwQ cmUMmu"
-        />
+        >
+          Github
+        </button>
       </div>
     </div>
   </body>,
@@ -52,7 +54,9 @@ Object {
       <button
         aria-label="button"
         class="sc-bdfBwQ cmUMmu"
-      />
+      >
+        Github
+      </button>
     </div>
   </div>,
   "debug": [Function],
