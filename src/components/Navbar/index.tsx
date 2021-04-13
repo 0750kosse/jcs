@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
 import { NavBarProps } from '../../types'
 import { mediaQueries } from '../../mediaqueries'
+import { Link } from 'react-scroll'
 
 const Navigation = styled.nav<NavBarProps>`
 display: flex;
@@ -32,19 +33,28 @@ justify-content:space-evenly;
 width:100%;
 padding:0;
 `
-const Link = styled.li`
+const LinkScroller = styled(Link)`
 list-style-type: none;
+.active {
+  background: 1px solid red;
+}
 `
-const navBarTitles = ['about', 'projects', 'contact']
+const navBarTitles = ['home', 'projects', 'contact']
 const navItems = navBarTitles.map(title => {
-  let href = `${title} `
+
   return (
-    <Link className="nav-item" key={title}>
-      <a className="nav-link" href={href}> {title}</a>
-    </Link>
+    <LinkScroller
+      activeClass="active"
+      to={title}
+      spy={true}
+      smooth={true}
+      duration={500}
+      key={title}
+      className="nav-link">
+      {title}
+    </LinkScroller>
   )
 })
-
 
 export default (props: NavBarProps) => {
   const [scrollY, setScrollY] = useState(0);

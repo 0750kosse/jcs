@@ -4,6 +4,7 @@ import Info from '../../components/Info'
 import { profile, about } from '../../lib/data'
 
 export default () => {
+
   return (
     <>
       <Profile

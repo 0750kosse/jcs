@@ -8,6 +8,7 @@ export interface ProjectProps {
 }
 
 export interface ProfileProps {
+  id?: string,
   header: string,
   subheader: string,
   image?: any,
@@ -16,6 +17,7 @@ export interface ProfileProps {
 }
 
 export interface InfoProps {
+  id?: string,
   title: string,
   description: string
 }

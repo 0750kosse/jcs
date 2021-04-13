@@ -37,7 +37,7 @@ const Paragraph = styled.h4``
 export default (props: ProjectProps) => {
   const { header, subheader, stack, demo, github } = props
   return (
-    <Content className="project__wrapper--item">
+    <Content className="project__wrapper--item" id="projects">
       <Header>{header}</Header>
       <SubHeader>{subheader}</SubHeader>
       <Paragraph>{stack}</Paragraph>

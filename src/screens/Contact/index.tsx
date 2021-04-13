@@ -6,6 +6,7 @@ export default () => {
   return (
     <>
       <Info
+        id={contact.title}
         title={contact.title}
         description={contact.description} />
     </>
