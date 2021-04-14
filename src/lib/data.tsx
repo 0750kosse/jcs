@@ -32,6 +32,7 @@ const projects: ProjectProps[] = [
 ]
 
 const profile: ProfileProps = {
+  id: '',
   header: "Front End Dev",
   subheader: "Hey there, I'm Jose! I'm a passionate software developer. Currently living in London and originally from Barcelona. For the past two years, I've been teaching myself to code and currently seeking an entry level Front End Dev role",
   image: '',
@@ -40,11 +41,13 @@ const profile: ProfileProps = {
 }
 
 const about: InfoProps = {
+  id: '',
   title: 'Projects',
   description: "Find below a few side projects that I have been building from scratch in which I put to use the different languages learnt. Next stop in my learning bucket list are Python and Svelte, so watch this space…"
 }
 
 const contact: InfoProps = {
+  id: '',
   title: 'Get in touch',
   description: 'It will be great to hear from you! Feel free to contact me for questions, or just to say hola!'
 }
