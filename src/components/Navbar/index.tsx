@@ -35,8 +35,9 @@ padding:0;
 `
 const LinkScroller = styled(Link)`
 list-style-type: none;
-.active {
-  background: 1px solid red;
+border-bottom:5px solid transparent;
+&.active {
+  border-bottom:5px solid red;
 }
 `
 const navBarTitles = ['home', 'projects', 'contact']
@@ -49,6 +50,7 @@ const navItems = navBarTitles.map(title => {
       spy={true}
       smooth={true}
       duration={500}
+      offset={-500}
       key={title}
       className="nav-link">
       {title}

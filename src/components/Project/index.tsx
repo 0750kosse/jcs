@@ -10,7 +10,7 @@ display:flex;
 flex-direction:column;
 align-items:center;
 text-align:center;
-margin:-2rem 0 4rem;
+margin:-2rem 0 3rem;
 width:90%;
 height:24rem;
 background:white;
@@ -30,7 +30,9 @@ width:20%;
 `}
 `
 
-const Header = styled.h2``
+const Header = styled.h2`
+margin-bottom: 0;
+`
 const SubHeader = styled.h3``
 const Paragraph = styled.h4``
 
@@ -41,7 +43,7 @@ export default (props: ProjectProps) => {
       <Header>{header}</Header>
       <SubHeader>{subheader}</SubHeader>
       <Paragraph>{stack}</Paragraph>
-      <Button src={demo}>Live Demo</Button>
+      <Button>Live Demo</Button>
       <Button>Github</Button>
     </Content>
   )
