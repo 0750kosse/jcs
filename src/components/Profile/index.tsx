@@ -12,6 +12,7 @@ justify-content: space-evenly;
 width:100%;
 ${mediaQueries('tablet')`
 width: 50%;
+margin-left: 7rem;
 `}
 `
 
@@ -41,18 +42,17 @@ max-width: 15rem;
 height:15rem;
 border-radius: 50%;
 `
+
 export default (props: ProfileProps) => {
   const { header, subheader, cta, ctaText, id } = props
-
   return (
     <Container id="home">
       <Header className="profile__header">{header}</Header>
       <Image src={ProfilePic} />
       <SubHeader>{subheader}</SubHeader>
       <ColToRow className="profile__button">
-        {ctaText && ctaText!.map((item: string, index: number) =>
-          <Button key={index}>{item}</Button>
-        )}
+        <Button ctaText="Learn More" type="primary"></Button>
+        <Button ctaText="Contact"></Button>
       </ColToRow>
     </Container>
   )

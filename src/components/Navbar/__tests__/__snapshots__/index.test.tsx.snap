@@ -17,39 +17,21 @@ Object {
         <ul
           class="sc-dlfnbm jHfWHJ nav navbar-nav"
         >
-          <li
-            class="sc-hKgILt brJYqT nav-item"
+          <a
+            class="sc-hKgILt glqpbw nav-link"
           >
-            <a
-              class="nav-link"
-              href="about "
-            >
-               
-              about
-            </a>
-          </li>
-          <li
-            class="sc-hKgILt brJYqT nav-item"
+            home
+          </a>
+          <a
+            class="sc-hKgILt glqpbw nav-link"
           >
-            <a
-              class="nav-link"
-              href="projects "
-            >
-               
-              projects
-            </a>
-          </li>
-          <li
-            class="sc-hKgILt brJYqT nav-item"
+            projects
+          </a>
+          <a
+            class="sc-hKgILt glqpbw nav-link"
           >
-            <a
-              class="nav-link"
-              href="contact "
-            >
-               
-              contact
-            </a>
-          </li>
+            contact
+          </a>
         </ul>
       </nav>
     </div>
@@ -67,39 +49,21 @@ Object {
       <ul
         class="sc-dlfnbm jHfWHJ nav navbar-nav"
       >
-        <li
-          class="sc-hKgILt brJYqT nav-item"
+        <a
+          class="sc-hKgILt glqpbw nav-link"
         >
-          <a
-            class="nav-link"
-            href="about "
-          >
-             
-            about
-          </a>
-        </li>
-        <li
-          class="sc-hKgILt brJYqT nav-item"
+          home
+        </a>
+        <a
+          class="sc-hKgILt glqpbw nav-link"
         >
-          <a
-            class="nav-link"
-            href="projects "
-          >
-             
-            projects
-          </a>
-        </li>
-        <li
-          class="sc-hKgILt brJYqT nav-item"
+          projects
+        </a>
+        <a
+          class="sc-hKgILt glqpbw nav-link"
         >
-          <a
-            class="nav-link"
-            href="contact "
-          >
-             
-            contact
-          </a>
-        </li>
+          contact
+        </a>
       </ul>
     </nav>
   </div>,

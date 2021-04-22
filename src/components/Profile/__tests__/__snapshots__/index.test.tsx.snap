@@ -7,6 +7,7 @@ Object {
     <div>
       <div
         class="sc-dlfnbm fJnBsZ"
+        id="home"
       >
         <h1
           class="sc-hKgILt bcYGRj profile__header"
@@ -19,14 +20,29 @@ Object {
           class="sc-eCssSg eFvELq"
         />
         <div
-          class="sc-gsTCUz Gjuml profile__button"
-        />
+          class="sc-gsTCUz cBZdzr profile__button"
+        >
+          <a
+            aria-label="button"
+            class="sc-bdfBwQ gSrdPW"
+            type="primary"
+          >
+            Learn More
+          </a>
+          <a
+            aria-label="button"
+            class="sc-bdfBwQ dZokzn"
+          >
+            Contact
+          </a>
+        </div>
       </div>
     </div>
   </body>,
   "container": <div>
     <div
       class="sc-dlfnbm fJnBsZ"
+      id="home"
     >
       <h1
         class="sc-hKgILt bcYGRj profile__header"
@@ -39,8 +55,22 @@ Object {
         class="sc-eCssSg eFvELq"
       />
       <div
-        class="sc-gsTCUz Gjuml profile__button"
-      />
+        class="sc-gsTCUz cBZdzr profile__button"
+      >
+        <a
+          aria-label="button"
+          class="sc-bdfBwQ gSrdPW"
+          type="primary"
+        >
+          Learn More
+        </a>
+        <a
+          aria-label="button"
+          class="sc-bdfBwQ dZokzn"
+        >
+          Contact
+        </a>
+      </div>
     </div>
   </div>,
   "debug": [Function],

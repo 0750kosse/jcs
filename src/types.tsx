@@ -13,7 +13,8 @@ export interface ProfileProps {
   subheader: string,
   image?: any,
   cta?: boolean,
-  ctaText?: string[]
+  ctaText?: string
+
 }
 
 export interface InfoProps {
@@ -24,4 +25,16 @@ export interface InfoProps {
 
 export interface NavBarProps {
   scrollY?: any
+}
+
+export interface ButtonProps {
+  href?: string,
+  children?: React.ReactNode
+  type?: string,
+  value?: string,
+  target?: string,
+  rel?: string,
+  ctaText: string,
+  id?: string,
+  onClick?: (e: React.MouseEvent) => void
 }

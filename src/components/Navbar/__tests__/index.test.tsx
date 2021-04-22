@@ -10,7 +10,7 @@ describe('Navbar component', () => {
   })
   it('should render the website sections', () => {
     const { getByText } = render(<NavBar />)
-    expect(getByText('about')).toBeInTheDocument()
+    expect(getByText('home')).toBeInTheDocument()
     expect(getByText('projects')).toBeInTheDocument()
     expect(getByText('contact')).toBeInTheDocument()
   })

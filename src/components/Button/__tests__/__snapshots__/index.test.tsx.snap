@@ -1,73 +1,21 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Project component should match the snapshot 1`] = `
+exports[`Button component should match the snapshot 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <div
-        class="sc-gsTCUz fpWFeS project__wrapper--item"
-        id="projects"
-      >
-        <h2
-          class="sc-dlfnbm bTDNWh"
-        />
-        <h3
-          class="sc-hKgILt hePxsW"
-        />
-        <h4
-          class="sc-eCssSg jEITQI"
-        />
-        <div
-          class="sc-jSgupP cLmBLZ"
-        >
-          <a
-            aria-label="button"
-            class="sc-bdfBwQ dZokzn"
-          >
-            Live Demo
-          </a>
-          <a
-            aria-label="button"
-            class="sc-bdfBwQ dZokzn"
-          >
-            GitHub
-          </a>
-        </div>
-      </div>
+      <a
+        aria-label="button"
+        class="sc-bdfBwQ dZokzn"
+      />
     </div>
   </body>,
   "container": <div>
-    <div
-      class="sc-gsTCUz fpWFeS project__wrapper--item"
-      id="projects"
-    >
-      <h2
-        class="sc-dlfnbm bTDNWh"
-      />
-      <h3
-        class="sc-hKgILt hePxsW"
-      />
-      <h4
-        class="sc-eCssSg jEITQI"
-      />
-      <div
-        class="sc-jSgupP cLmBLZ"
-      >
-        <a
-          aria-label="button"
-          class="sc-bdfBwQ dZokzn"
-        >
-          Live Demo
-        </a>
-        <a
-          aria-label="button"
-          class="sc-bdfBwQ dZokzn"
-        >
-          GitHub
-        </a>
-      </div>
-    </div>
+    <a
+      aria-label="button"
+      class="sc-bdfBwQ dZokzn"
+    />
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

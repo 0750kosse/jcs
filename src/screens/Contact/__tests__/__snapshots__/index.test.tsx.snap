@@ -19,6 +19,52 @@ Object {
           It will be great to hear from you! Feel free to contact me for questions, or just to say hola!
         </p>
       </div>
+      <form
+        class="sc-eCssSg fOkYkU"
+        id="contact"
+      >
+        <label
+          class="sc-jSgupP visuallyhidden"
+          for="name"
+        />
+        <input
+          class="sc-gKsewC gxxeeu"
+          id="name"
+          name="textfield"
+          placeholder="Name..."
+          type="text"
+        />
+        <label
+          class="sc-jSgupP visuallyhidden"
+          for="email"
+        />
+        <input
+          aria-describedby="email-address"
+          aria-invalid="true"
+          class="sc-gKsewC gxxeeu"
+          id="email"
+          name="textfield"
+          placeholder="Email..."
+          type="text"
+        />
+        <label
+          class="sc-jSgupP visuallyhidden"
+          for="message"
+        />
+        <textarea
+          class="sc-iBPRYJ crASmk"
+          id="message"
+          name="messagetext"
+          placeholder="Leave your message..."
+        />
+        <a
+          aria-label="button"
+          class="sc-hKgILt ibEzRK"
+          type="submit"
+        >
+          Send Message
+        </a>
+      </form>
     </div>
   </body>,
   "container": <div>
@@ -36,6 +82,52 @@ Object {
         It will be great to hear from you! Feel free to contact me for questions, or just to say hola!
       </p>
     </div>
+    <form
+      class="sc-eCssSg fOkYkU"
+      id="contact"
+    >
+      <label
+        class="sc-jSgupP visuallyhidden"
+        for="name"
+      />
+      <input
+        class="sc-gKsewC gxxeeu"
+        id="name"
+        name="textfield"
+        placeholder="Name..."
+        type="text"
+      />
+      <label
+        class="sc-jSgupP visuallyhidden"
+        for="email"
+      />
+      <input
+        aria-describedby="email-address"
+        aria-invalid="true"
+        class="sc-gKsewC gxxeeu"
+        id="email"
+        name="textfield"
+        placeholder="Email..."
+        type="text"
+      />
+      <label
+        class="sc-jSgupP visuallyhidden"
+        for="message"
+      />
+      <textarea
+        class="sc-iBPRYJ crASmk"
+        id="message"
+        name="messagetext"
+        placeholder="Leave your message..."
+      />
+      <a
+        aria-label="button"
+        class="sc-hKgILt ibEzRK"
+        type="submit"
+      >
+        Send Message
+      </a>
+    </form>
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

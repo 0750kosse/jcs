@@ -6,262 +6,318 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="sc-jSgupP kAlcOL project__wrapper"
+        class="sc-gKsewC boQHEy project__wrapper"
       >
         <div
-          class="sc-gsTCUz xTPdB project__wrapper--item"
+          class="sc-gsTCUz fpWFeS project__wrapper--item"
+          id="projects"
         >
           <h2
-            class="sc-dlfnbm"
+            class="sc-dlfnbm bTDNWh"
           >
-            St. Joseph´s Highgate
+            St. Joseph´s
           </h2>
           <h3
-            class="sc-hKgILt"
+            class="sc-hKgILt hePxsW"
           >
-            Website revamping for a responsive, modern and accessible feel
+            A project to revamp the existing church website for a responsive, mobile-first, modern and accessible feel.
           </h3>
           <h4
-            class="sc-eCssSg"
+            class="sc-eCssSg jEITQI"
           >
-            HTML, CSS, Vanilla JS
+            HTML, CSS, and Vanilla JS
           </h4>
-          <button
-            aria-label="button"
-            class="sc-bdfBwQ cmUMmu"
+          <div
+            class="sc-jSgupP cLmBLZ"
           >
-            Live Demo
-          </button>
-          <button
-            aria-label="button"
-            class="sc-bdfBwQ cmUMmu"
-          >
-            Github
-          </button>
+            <a
+              aria-label="button"
+              class="sc-bdfBwQ dZokzn"
+              href="https://demo-stjosephs.netlify.app/"
+            >
+              Live Demo
+            </a>
+            <a
+              aria-label="button"
+              class="sc-bdfBwQ dZokzn"
+              href="https://github.com/0750kosse/StJosephs"
+            >
+              GitHub
+            </a>
+          </div>
         </div>
         <div
-          class="sc-gsTCUz xTPdB project__wrapper--item"
+          class="sc-gsTCUz fpWFeS project__wrapper--item"
+          id="projects"
         >
           <h2
-            class="sc-dlfnbm"
+            class="sc-dlfnbm bTDNWh"
           >
             PetBuddy
           </h2>
           <h3
-            class="sc-hKgILt"
+            class="sc-hKgILt hePxsW"
           >
-            Where your pet becomes their buddy
+            A commercial project building a responsive, writing clean, reusable code for a local pet business.
           </h3>
           <h4
-            class="sc-eCssSg"
+            class="sc-eCssSg jEITQI"
           >
-            ReactJs, Typescript
+            ReactJs, Typescript, React testing library
           </h4>
-          <button
-            aria-label="button"
-            class="sc-bdfBwQ cmUMmu"
+          <div
+            class="sc-jSgupP cLmBLZ"
           >
-            Live Demo
-          </button>
-          <button
-            aria-label="button"
-            class="sc-bdfBwQ cmUMmu"
-          >
-            Github
-          </button>
+            <a
+              aria-label="button"
+              class="sc-bdfBwQ dZokzn"
+              href="Coming soon"
+            >
+              Live Demo
+            </a>
+            <a
+              aria-label="button"
+              class="sc-bdfBwQ dZokzn"
+              href="https://github.com/t0nin0s/petbuddy-website"
+            >
+              GitHub
+            </a>
+          </div>
         </div>
         <div
-          class="sc-gsTCUz xTPdB project__wrapper--item"
+          class="sc-gsTCUz fpWFeS project__wrapper--item"
+          id="projects"
         >
           <h2
-            class="sc-dlfnbm"
+            class="sc-dlfnbm bTDNWh"
           >
-            PetBuddy
+            Netfailx
           </h2>
           <h3
-            class="sc-hKgILt"
+            class="sc-hKgILt hePxsW"
           >
-            Where your pet becomes their buddy
+            Bored at home...? Check out this movie search engine which uses the Open Movie Database API.
           </h3>
           <h4
-            class="sc-eCssSg"
+            class="sc-eCssSg jEITQI"
           >
-            ReactJs, Typescript
+            React, Javascript, Jest & Enzyme
           </h4>
-          <button
-            aria-label="button"
-            class="sc-bdfBwQ cmUMmu"
+          <div
+            class="sc-jSgupP cLmBLZ"
           >
-            Live Demo
-          </button>
-          <button
-            aria-label="button"
-            class="sc-bdfBwQ cmUMmu"
-          >
-            Github
-          </button>
+            <a
+              aria-label="button"
+              class="sc-bdfBwQ dZokzn"
+              href="https://netfailx.netlify.app"
+            >
+              Live Demo
+            </a>
+            <a
+              aria-label="button"
+              class="sc-bdfBwQ dZokzn"
+              href="https://github.com/0750kosse/movieapp-react"
+            >
+              GitHub
+            </a>
+          </div>
         </div>
         <div
-          class="sc-gsTCUz xTPdB project__wrapper--item"
+          class="sc-gsTCUz fpWFeS project__wrapper--item"
+          id="projects"
         >
           <h2
-            class="sc-dlfnbm"
+            class="sc-dlfnbm bTDNWh"
           >
-            PetBuddy
+            Domino ́s Pizza
           </h2>
           <h3
-            class="sc-hKgILt"
+            class="sc-hKgILt hePxsW"
           >
-            Where your pet becomes their buddy
+            Hungry after the movie...? Then use my online takeaway pizza application...
           </h3>
           <h4
-            class="sc-eCssSg"
+            class="sc-eCssSg jEITQI"
           >
-            ReactJs, Typescript
+            Node, Express, Mongoose, AWS, MongoDB
           </h4>
-          <button
-            aria-label="button"
-            class="sc-bdfBwQ cmUMmu"
+          <div
+            class="sc-jSgupP cLmBLZ"
           >
-            Live Demo
-          </button>
-          <button
-            aria-label="button"
-            class="sc-bdfBwQ cmUMmu"
-          >
-            Github
-          </button>
+            <a
+              aria-label="button"
+              class="sc-bdfBwQ dZokzn"
+              href="https://pizzadominos.herokuapp.com/"
+            >
+              Live Demo
+            </a>
+            <a
+              aria-label="button"
+              class="sc-bdfBwQ dZokzn"
+              href="https://github.com/0750kosse/restful-pizza"
+            >
+              GitHub
+            </a>
+          </div>
         </div>
       </div>
     </div>
   </body>,
   "container": <div>
     <div
-      class="sc-jSgupP kAlcOL project__wrapper"
+      class="sc-gKsewC boQHEy project__wrapper"
     >
       <div
-        class="sc-gsTCUz xTPdB project__wrapper--item"
+        class="sc-gsTCUz fpWFeS project__wrapper--item"
+        id="projects"
       >
         <h2
-          class="sc-dlfnbm"
+          class="sc-dlfnbm bTDNWh"
         >
-          St. Joseph´s Highgate
+          St. Joseph´s
         </h2>
         <h3
-          class="sc-hKgILt"
+          class="sc-hKgILt hePxsW"
         >
-          Website revamping for a responsive, modern and accessible feel
+          A project to revamp the existing church website for a responsive, mobile-first, modern and accessible feel.
         </h3>
         <h4
-          class="sc-eCssSg"
+          class="sc-eCssSg jEITQI"
         >
-          HTML, CSS, Vanilla JS
+          HTML, CSS, and Vanilla JS
         </h4>
-        <button
-          aria-label="button"
-          class="sc-bdfBwQ cmUMmu"
+        <div
+          class="sc-jSgupP cLmBLZ"
         >
-          Live Demo
-        </button>
-        <button
-          aria-label="button"
-          class="sc-bdfBwQ cmUMmu"
-        >
-          Github
-        </button>
+          <a
+            aria-label="button"
+            class="sc-bdfBwQ dZokzn"
+            href="https://demo-stjosephs.netlify.app/"
+          >
+            Live Demo
+          </a>
+          <a
+            aria-label="button"
+            class="sc-bdfBwQ dZokzn"
+            href="https://github.com/0750kosse/StJosephs"
+          >
+            GitHub
+          </a>
+        </div>
       </div>
       <div
-        class="sc-gsTCUz xTPdB project__wrapper--item"
+        class="sc-gsTCUz fpWFeS project__wrapper--item"
+        id="projects"
       >
         <h2
-          class="sc-dlfnbm"
+          class="sc-dlfnbm bTDNWh"
         >
           PetBuddy
         </h2>
         <h3
-          class="sc-hKgILt"
+          class="sc-hKgILt hePxsW"
         >
-          Where your pet becomes their buddy
+          A commercial project building a responsive, writing clean, reusable code for a local pet business.
         </h3>
         <h4
-          class="sc-eCssSg"
+          class="sc-eCssSg jEITQI"
         >
-          ReactJs, Typescript
+          ReactJs, Typescript, React testing library
         </h4>
-        <button
-          aria-label="button"
-          class="sc-bdfBwQ cmUMmu"
+        <div
+          class="sc-jSgupP cLmBLZ"
         >
-          Live Demo
-        </button>
-        <button
-          aria-label="button"
-          class="sc-bdfBwQ cmUMmu"
-        >
-          Github
-        </button>
+          <a
+            aria-label="button"
+            class="sc-bdfBwQ dZokzn"
+            href="Coming soon"
+          >
+            Live Demo
+          </a>
+          <a
+            aria-label="button"
+            class="sc-bdfBwQ dZokzn"
+            href="https://github.com/t0nin0s/petbuddy-website"
+          >
+            GitHub
+          </a>
+        </div>
       </div>
       <div
-        class="sc-gsTCUz xTPdB project__wrapper--item"
+        class="sc-gsTCUz fpWFeS project__wrapper--item"
+        id="projects"
       >
         <h2
-          class="sc-dlfnbm"
+          class="sc-dlfnbm bTDNWh"
         >
-          PetBuddy
+          Netfailx
         </h2>
         <h3
-          class="sc-hKgILt"
+          class="sc-hKgILt hePxsW"
         >
-          Where your pet becomes their buddy
+          Bored at home...? Check out this movie search engine which uses the Open Movie Database API.
         </h3>
         <h4
-          class="sc-eCssSg"
+          class="sc-eCssSg jEITQI"
         >
-          ReactJs, Typescript
+          React, Javascript, Jest & Enzyme
         </h4>
-        <button
-          aria-label="button"
-          class="sc-bdfBwQ cmUMmu"
+        <div
+          class="sc-jSgupP cLmBLZ"
         >
-          Live Demo
-        </button>
-        <button
-          aria-label="button"
-          class="sc-bdfBwQ cmUMmu"
-        >
-          Github
-        </button>
+          <a
+            aria-label="button"
+            class="sc-bdfBwQ dZokzn"
+            href="https://netfailx.netlify.app"
+          >
+            Live Demo
+          </a>
+          <a
+            aria-label="button"
+            class="sc-bdfBwQ dZokzn"
+            href="https://github.com/0750kosse/movieapp-react"
+          >
+            GitHub
+          </a>
+        </div>
       </div>
       <div
-        class="sc-gsTCUz xTPdB project__wrapper--item"
+        class="sc-gsTCUz fpWFeS project__wrapper--item"
+        id="projects"
       >
         <h2
-          class="sc-dlfnbm"
+          class="sc-dlfnbm bTDNWh"
         >
-          PetBuddy
+          Domino ́s Pizza
         </h2>
         <h3
-          class="sc-hKgILt"
+          class="sc-hKgILt hePxsW"
         >
-          Where your pet becomes their buddy
+          Hungry after the movie...? Then use my online takeaway pizza application...
         </h3>
         <h4
-          class="sc-eCssSg"
+          class="sc-eCssSg jEITQI"
         >
-          ReactJs, Typescript
+          Node, Express, Mongoose, AWS, MongoDB
         </h4>
-        <button
-          aria-label="button"
-          class="sc-bdfBwQ cmUMmu"
+        <div
+          class="sc-jSgupP cLmBLZ"
         >
-          Live Demo
-        </button>
-        <button
-          aria-label="button"
-          class="sc-bdfBwQ cmUMmu"
-        >
-          Github
-        </button>
+          <a
+            aria-label="button"
+            class="sc-bdfBwQ dZokzn"
+            href="https://pizzadominos.herokuapp.com/"
+          >
+            Live Demo
+          </a>
+          <a
+            aria-label="button"
+            class="sc-bdfBwQ dZokzn"
+            href="https://github.com/0750kosse/restful-pizza"
+          >
+            GitHub
+          </a>
+        </div>
       </div>
     </div>
   </div>,

@@ -42,7 +42,6 @@ border-bottom:5px solid transparent;
 `
 const navBarTitles = ['home', 'projects', 'contact']
 const navItems = navBarTitles.map(title => {
-
   return (
     <LinkScroller
       activeClass="active"

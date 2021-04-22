@@ -46,10 +46,9 @@ export default () => {
         <Input id="name" type="text" name="textfield" placeholder="Name..." />
         <Label htmlFor="email" className="visuallyhidden"></Label>
         <Input id="email" type="text" name="textfield" aria-describedby="email-address" aria-invalid="true" placeholder="Email..." />
-        {/* <span id="username-help-text">There was an error with the input above.</span> */}
         <Label htmlFor="message" className="visuallyhidden"></Label>
         <TextArea id="message" name="messagetext" placeholder="Leave your message..."></TextArea>
-        <SubmitButton type="submit" value="Submit">Send message</SubmitButton>
+        <SubmitButton type="submit" value="Submit" ctaText="Send Message">Send message</SubmitButton>
       </Form>
     </>
   )
