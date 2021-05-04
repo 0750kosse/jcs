@@ -56,7 +56,7 @@ margin-bottom:1rem;
 export default (props: ProjectProps) => {
   const { header, subheader, stack, demo, github } = props
   return (
-    <Content className="project__wrapper--item" id="projects">
+    <Content className="project__wrapper--item" >
       <Header>{header}</Header>
       <SubHeader>{subheader}</SubHeader>
       <Paragraph>{stack}</Paragraph>

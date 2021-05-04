@@ -49,7 +49,7 @@ const navItems = navBarTitles.map(title => {
       spy={true}
       smooth={true}
       duration={500}
-      offset={-500}
+      offset={-440}
       key={title}
       className="nav-link">
       {title}

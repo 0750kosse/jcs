@@ -1,6 +1,6 @@
 import React from 'react'
-import Button from '../Button'
 import styled from 'styled-components'
+import emailjs from 'emailjs-com'
 
 const Form = styled.form`
 display: flex;
@@ -34,21 +34,30 @@ box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
 border-radius: 9px;
 margin-bottom:1rem;
 `
-const SubmitButton = styled(Button)`
-width: 15rem;
-`
 
 export default () => {
+  function sendEmail(e: any) {
+    e.preventDefault();
+
+    emailjs.sendForm('service_qf93yb8', 'template_hnhtb4n', e.target, 'user_iuCmDuV4amYXxZfJ3wjER')
+      .then((result) => {
+        console.log(result.text);
+      }, (error) => {
+        console.log(error.text);
+      });
+    e.target.reset()
+  }
+
   return (
     <>
-      <Form id="contact">
+      <Form className="contact-form" id="contact" onSubmit={sendEmail}>
         <Label htmlFor="name" className="visuallyhidden"></Label>
-        <Input id="name" type="text" name="textfield" placeholder="Name..." />
+        <Input id="name" type="text" name="user_name" placeholder="Name..." required />
         <Label htmlFor="email" className="visuallyhidden"></Label>
-        <Input id="email" type="text" name="textfield" aria-describedby="email-address" aria-invalid="true" placeholder="Email..." />
+        <Input id="email" type="text" name="user_email" aria-describedby="email-address" aria-invalid="true" placeholder="Email..." required />
         <Label htmlFor="message" className="visuallyhidden"></Label>
-        <TextArea id="message" name="messagetext" placeholder="Leave your message..."></TextArea>
-        <SubmitButton type="submit" value="Submit" ctaText="Send Message">Send message</SubmitButton>
+        <TextArea id="message" name="message" placeholder="Leave your message..." required></TextArea>
+        <Input type="submit" value="Send message"></Input>
       </Form>
     </>
   )
