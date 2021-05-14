@@ -24,7 +24,7 @@ width: 90%;
 padding-left: 1rem;
 margin: .5rem 0;
 font-size: 18px;
-border: 1px solid transparent;
+border: 1px solid #F5F5F5;
 box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
 `
 const TextArea = styled.textarea`
@@ -32,7 +32,7 @@ width: 90%;
 height:10rem;
 padding-left: 1rem;
 font-size: 18px;
-border: 1px solid transparent;
+border: 1px solid #F5F5F5;
 box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
 border-radius: 9px;
 margin-bottom:1rem;
