@@ -64,7 +64,6 @@ export default (props: ProjectProps) => {
         <Button href={demo} target="_blank" rel="noopener" ctaText="Live Demo" />
         <Button href={github} target="_blank" rel="noopener" ctaText="GitHub" />
       </ButtonWrapper>
-
     </Content>
   )
 }

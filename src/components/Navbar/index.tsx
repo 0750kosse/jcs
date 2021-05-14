@@ -12,7 +12,7 @@ max-width: 100%;
 position: sticky;
 top: 0;
 background: white;
-
+z-index:1;
 box-shadow: ${props => props.scrollY ? "0 14px 10px -6px black" : "none"};
 ${mediaQueries('tablet')`
 flex-flow:row nowrap;
