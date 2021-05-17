@@ -26,7 +26,7 @@ const projects: ProjectProps[] = [
     header: 'Domino ́s Pizza',
     subheader: 'Hungry after the movie...? Then use my online takeaway pizza application...',
     stack: 'Node, Express, Mongoose, AWS, MongoDB',
-    demo: 'https://pizzadominos.herokuapp.com/',
+    demo: 'https://pizzadominos.herokuapp.com/menu',
     github: 'https://github.com/0750kosse/restful-pizza'
   }
 ]

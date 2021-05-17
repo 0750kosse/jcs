@@ -52,8 +52,8 @@ export default (props: ProfileProps) => {
       <Image src={ProfilePic} />
       <SubHeader>{subheader}</SubHeader>
       <ColToRow className="profile__button">
-        <Button ctaText="Learn More" type="primary"></Button>
-        <Button ctaText="Contact"></Button>
+        <Button ctaText="Contact" type="primary"></Button>
+        <Button ctaText="Download CV"></Button>
       </ColToRow>
     </Container>
   )
