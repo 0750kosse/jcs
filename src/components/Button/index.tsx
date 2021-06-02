@@ -16,14 +16,14 @@ font-size: 20px;
 text-decoration:none;
 margin-bottom:.5rem;
 `
-export default (props: ButtonProps) => {
-  const { href, ctaText, type, id } = props
+export default ({ href, ctaText, type, id, onClick }: ButtonProps) => {
   return (
     <Button
       aria-label="button"
       href={href}
       type={type}
       id={id}
+      onClick={onClick}
     >
       {ctaText}
     </Button>

@@ -14,7 +14,6 @@ export interface ProfileProps {
   image?: any,
   cta?: boolean,
   ctaText?: string
-
 }
 
 export interface InfoProps {

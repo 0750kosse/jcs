@@ -4,6 +4,7 @@ import { ProfileProps } from '../../types'
 import Button from '../Button'
 import ProfilePic from '../../lib/images/profilePic.jpeg'
 import { mediaQueries } from '../../mediaqueries'
+import { scroller } from 'react-scroll'
 
 const ColToRow = styled.div`
 display:flex;
@@ -43,16 +44,22 @@ max-width: 15rem;
 height:15rem;
 border-radius: 50%;
 `
+const scrollToForm = () => {
+  scroller.scrollTo("contact-form", {
+    duration: 800,
+    delay: 0,
+    smooth: "easeInOutQuart",
+  })
+}
 
-export default (props: ProfileProps) => {
-  const { header, subheader, cta, ctaText, id } = props
+export default ({ header, subheader, cta, ctaText, id }: ProfileProps) => {
   return (
     <Container id="home">
       <Header className="profile__header">{header}</Header>
       <Image src={ProfilePic} />
       <SubHeader>{subheader}</SubHeader>
       <ColToRow className="profile__button">
-        <Button ctaText="Contact" type="primary"></Button>
+        <Button ctaText="Contact" type="primary" onClick={scrollToForm}></Button>
         <Button ctaText="Download CV"></Button>
       </ColToRow>
     </Container>
