@@ -35,5 +35,6 @@ export interface ButtonProps {
   rel?: string,
   ctaText?: string,
   id?: string,
-  onClick?: (e: React.MouseEvent) => void
+  onClick?: (e: React.MouseEvent) => void,
+  download?: any
 }
