@@ -5,6 +5,7 @@ import Button from '../Button'
 import ProfilePic from '../../lib/images/profilePic.jpeg'
 import { mediaQueries } from '../../mediaqueries'
 import { scroller } from 'react-scroll'
+import Cv from '../../lib/files/CV.pdf'
 
 const ColToRow = styled.div`
 display:flex;
@@ -60,7 +61,7 @@ export default ({ header, subheader, cta, ctaText, id }: ProfileProps) => {
       <SubHeader>{subheader}</SubHeader>
       <ColToRow className="profile__button">
         <Button ctaText="Contact" type="primary" onClick={scrollToForm}></Button>
-        <Button ctaText="Download CV"></Button>
+        <Button ctaText="Download CV" href={Cv} target="_blank" rel="noopener noreferrer" download="CV.pdf"></Button>
       </ColToRow>
     </Container>
   )
