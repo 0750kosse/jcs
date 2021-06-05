@@ -2,11 +2,10 @@ import React, { useState } from 'react'
 import styled from 'styled-components'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCheckCircle } from '@fortawesome/free-solid-svg-icons'
-import { mediaQueries } from '../../mediaqueries'
 import emailjs from 'emailjs-com'
 
 const Form = styled.form`
-display: flex;
+display: flex; 
 flex-direction: column;
 align-items: center;
 padding: 2rem 1rem;

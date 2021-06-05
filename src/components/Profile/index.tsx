@@ -5,7 +5,6 @@ import Button from '../Button'
 import ProfilePic from '../../lib/images/profilePic.jpeg'
 import { mediaQueries } from '../../mediaqueries'
 import { scroller } from 'react-scroll'
-import Cv from '../../lib/files/CV.pdf'
 
 const ColToRow = styled.div`
 display:flex;
@@ -53,6 +52,12 @@ const scrollToForm = () => {
   })
 }
 
+const CvDownload = (e: any) => {
+  const pdfUrl = "https://josecsanchez.netlify.app/static/media/CV.d8f170c5.pdf"
+  e.preventDefault();
+  window.open(pdfUrl, '_blank')
+}
+
 export default ({ header, subheader, cta, ctaText, id }: ProfileProps) => {
   return (
     <Container id="home">
@@ -61,9 +66,9 @@ export default ({ header, subheader, cta, ctaText, id }: ProfileProps) => {
       <SubHeader>{subheader}</SubHeader>
       <ColToRow className="profile__button">
         <Button ctaText="Contact" type="primary" onClick={scrollToForm}></Button>
-        <Button ctaText="Download CV" href={Cv} target="_blank" rel="noopener noreferrer" download="CV.pdf"></Button>
+        <Button ctaText="Download CV" onClick={CvDownload}></Button>
       </ColToRow>
-    </Container>
+    </Container >
   )
 }
 
