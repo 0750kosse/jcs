@@ -6,11 +6,11 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="sc-iBPRYJ dYvBTa project__wrapper"
+        class="sc-iBPRYJ gRQjDs project__wrapper"
         id="projects"
       >
         <div
-          class="sc-dlfnbm efzEFd project__wrapper--item"
+          class="sc-dlfnbm cIjknv project__wrapper--item"
         >
           <h2
             class="sc-hKgILt fOCRPP"
@@ -37,7 +37,7 @@ Object {
               Live Demo
               <svg
                 aria-hidden="true"
-                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
                 data-icon="external-link-alt"
                 data-prefix="fas"
                 focusable="false"
@@ -58,7 +58,7 @@ Object {
               GitHub
               <svg
                 aria-hidden="true"
-                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
                 data-icon="external-link-alt"
                 data-prefix="fas"
                 focusable="false"
@@ -75,7 +75,7 @@ Object {
           </div>
         </div>
         <div
-          class="sc-dlfnbm efzEFd project__wrapper--item"
+          class="sc-dlfnbm cIjknv project__wrapper--item"
         >
           <h2
             class="sc-hKgILt fOCRPP"
@@ -102,7 +102,7 @@ Object {
               Live Demo
               <svg
                 aria-hidden="true"
-                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
                 data-icon="external-link-alt"
                 data-prefix="fas"
                 focusable="false"
@@ -123,7 +123,7 @@ Object {
               GitHub
               <svg
                 aria-hidden="true"
-                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
                 data-icon="external-link-alt"
                 data-prefix="fas"
                 focusable="false"
@@ -140,7 +140,7 @@ Object {
           </div>
         </div>
         <div
-          class="sc-dlfnbm efzEFd project__wrapper--item"
+          class="sc-dlfnbm cIjknv project__wrapper--item"
         >
           <h2
             class="sc-hKgILt fOCRPP"
@@ -167,7 +167,7 @@ Object {
               Live Demo
               <svg
                 aria-hidden="true"
-                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
                 data-icon="external-link-alt"
                 data-prefix="fas"
                 focusable="false"
@@ -188,7 +188,7 @@ Object {
               GitHub
               <svg
                 aria-hidden="true"
-                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
                 data-icon="external-link-alt"
                 data-prefix="fas"
                 focusable="false"
@@ -205,7 +205,7 @@ Object {
           </div>
         </div>
         <div
-          class="sc-dlfnbm efzEFd project__wrapper--item"
+          class="sc-dlfnbm cIjknv project__wrapper--item"
         >
           <h2
             class="sc-hKgILt fOCRPP"
@@ -232,7 +232,7 @@ Object {
               Live Demo
               <svg
                 aria-hidden="true"
-                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
                 data-icon="external-link-alt"
                 data-prefix="fas"
                 focusable="false"
@@ -253,7 +253,7 @@ Object {
               GitHub
               <svg
                 aria-hidden="true"
-                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
                 data-icon="external-link-alt"
                 data-prefix="fas"
                 focusable="false"
@@ -274,11 +274,11 @@ Object {
   </body>,
   "container": <div>
     <div
-      class="sc-iBPRYJ dYvBTa project__wrapper"
+      class="sc-iBPRYJ gRQjDs project__wrapper"
       id="projects"
     >
       <div
-        class="sc-dlfnbm efzEFd project__wrapper--item"
+        class="sc-dlfnbm cIjknv project__wrapper--item"
       >
         <h2
           class="sc-hKgILt fOCRPP"
@@ -305,7 +305,7 @@ Object {
             Live Demo
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
               data-icon="external-link-alt"
               data-prefix="fas"
               focusable="false"
@@ -326,7 +326,7 @@ Object {
             GitHub
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
               data-icon="external-link-alt"
               data-prefix="fas"
               focusable="false"
@@ -343,7 +343,7 @@ Object {
         </div>
       </div>
       <div
-        class="sc-dlfnbm efzEFd project__wrapper--item"
+        class="sc-dlfnbm cIjknv project__wrapper--item"
       >
         <h2
           class="sc-hKgILt fOCRPP"
@@ -370,7 +370,7 @@ Object {
             Live Demo
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
               data-icon="external-link-alt"
               data-prefix="fas"
               focusable="false"
@@ -391,7 +391,7 @@ Object {
             GitHub
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
               data-icon="external-link-alt"
               data-prefix="fas"
               focusable="false"
@@ -408,7 +408,7 @@ Object {
         </div>
       </div>
       <div
-        class="sc-dlfnbm efzEFd project__wrapper--item"
+        class="sc-dlfnbm cIjknv project__wrapper--item"
       >
         <h2
           class="sc-hKgILt fOCRPP"
@@ -435,7 +435,7 @@ Object {
             Live Demo
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
               data-icon="external-link-alt"
               data-prefix="fas"
               focusable="false"
@@ -456,7 +456,7 @@ Object {
             GitHub
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
               data-icon="external-link-alt"
               data-prefix="fas"
               focusable="false"
@@ -473,7 +473,7 @@ Object {
         </div>
       </div>
       <div
-        class="sc-dlfnbm efzEFd project__wrapper--item"
+        class="sc-dlfnbm cIjknv project__wrapper--item"
       >
         <h2
           class="sc-hKgILt fOCRPP"
@@ -500,7 +500,7 @@ Object {
             Live Demo
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
               data-icon="external-link-alt"
               data-prefix="fas"
               focusable="false"
@@ -521,7 +521,7 @@ Object {
             GitHub
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
               data-icon="external-link-alt"
               data-prefix="fas"
               focusable="false"

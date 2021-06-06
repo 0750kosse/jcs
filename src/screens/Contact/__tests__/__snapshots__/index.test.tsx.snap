@@ -6,7 +6,7 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="sc-bdfBwQ IKSFh"
+        class="sc-bdfBwQ gQQVoj"
       >
         <h1
           class="sc-gsTCUz"
@@ -20,56 +20,57 @@ Object {
         </p>
       </div>
       <form
-        class="sc-eCssSg fOkYkU"
+        class="sc-hKgILt iKfnOl contact-form"
         id="contact"
       >
         <label
-          class="sc-jSgupP visuallyhidden"
+          class="sc-eCssSg visuallyhidden"
           for="name"
         />
         <input
-          class="sc-gKsewC gxxeeu"
+          class="sc-jSgupP fhpxRR"
           id="name"
-          name="textfield"
+          name="user_name"
           placeholder="Name..."
+          required=""
           type="text"
         />
         <label
-          class="sc-jSgupP visuallyhidden"
+          class="sc-eCssSg visuallyhidden"
           for="email"
         />
         <input
           aria-describedby="email-address"
           aria-invalid="true"
-          class="sc-gKsewC gxxeeu"
+          class="sc-jSgupP fhpxRR"
           id="email"
-          name="textfield"
+          name="user_email"
           placeholder="Email..."
+          required=""
           type="text"
         />
         <label
-          class="sc-jSgupP visuallyhidden"
+          class="sc-eCssSg visuallyhidden"
           for="message"
         />
         <textarea
-          class="sc-iBPRYJ crASmk"
+          class="sc-gKsewC ciGxfK"
           id="message"
-          name="messagetext"
+          name="message"
           placeholder="Leave your message..."
+          required=""
         />
-        <a
-          aria-label="button"
-          class="sc-hKgILt ibEzRK"
+        <input
+          class="sc-jSgupP fhpxRR"
           type="submit"
-        >
-          Send Message
-        </a>
+          value="Send message"
+        />
       </form>
     </div>
   </body>,
   "container": <div>
     <div
-      class="sc-bdfBwQ IKSFh"
+      class="sc-bdfBwQ gQQVoj"
     >
       <h1
         class="sc-gsTCUz"
@@ -83,50 +84,51 @@ Object {
       </p>
     </div>
     <form
-      class="sc-eCssSg fOkYkU"
+      class="sc-hKgILt iKfnOl contact-form"
       id="contact"
     >
       <label
-        class="sc-jSgupP visuallyhidden"
+        class="sc-eCssSg visuallyhidden"
         for="name"
       />
       <input
-        class="sc-gKsewC gxxeeu"
+        class="sc-jSgupP fhpxRR"
         id="name"
-        name="textfield"
+        name="user_name"
         placeholder="Name..."
+        required=""
         type="text"
       />
       <label
-        class="sc-jSgupP visuallyhidden"
+        class="sc-eCssSg visuallyhidden"
         for="email"
       />
       <input
         aria-describedby="email-address"
         aria-invalid="true"
-        class="sc-gKsewC gxxeeu"
+        class="sc-jSgupP fhpxRR"
         id="email"
-        name="textfield"
+        name="user_email"
         placeholder="Email..."
+        required=""
         type="text"
       />
       <label
-        class="sc-jSgupP visuallyhidden"
+        class="sc-eCssSg visuallyhidden"
         for="message"
       />
       <textarea
-        class="sc-iBPRYJ crASmk"
+        class="sc-gKsewC ciGxfK"
         id="message"
-        name="messagetext"
+        name="message"
         placeholder="Leave your message..."
+        required=""
       />
-      <a
-        aria-label="button"
-        class="sc-hKgILt ibEzRK"
+      <input
+        class="sc-jSgupP fhpxRR"
         type="submit"
-      >
-        Send Message
-      </a>
+        value="Send message"
+      />
     </form>
   </div>,
   "debug": [Function],

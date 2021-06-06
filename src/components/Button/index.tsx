@@ -25,6 +25,7 @@ padding: 0 .5rem
 
 const ExternalLinkIcon = styled(FontAwesomeIcon)`
 color: ${props => props.type === 'primary' ? "red" : "grey"};
+margin-right: 1rem;
 `
 
 export default ({ href, ctaText, type, id, onClick }: ButtonProps) => {

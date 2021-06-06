@@ -6,21 +6,21 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="sc-hKgILt bKfPST"
+        class="sc-hKgILt ikMfpV"
         id="home"
       >
         <h1
           class="sc-eCssSg Tywgk profile__header"
         />
         <img
-          class="sc-gKsewC TXIOO"
+          class="sc-gKsewC cCEKFw"
           src="profilePic.jpeg"
         />
         <h2
           class="sc-jSgupP chcMgv"
         />
         <div
-          class="sc-dlfnbm kfwvY profile__button"
+          class="sc-dlfnbm cYacxt profile__button"
         >
           <a
             aria-label="button"
@@ -30,7 +30,7 @@ Object {
             Contact
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz ejdhGU"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz dCcfzj"
               data-icon="external-link-alt"
               data-prefix="fas"
               focusable="false"
@@ -52,7 +52,7 @@ Object {
             Download CV
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
               data-icon="external-link-alt"
               data-prefix="fas"
               focusable="false"
@@ -72,21 +72,21 @@ Object {
   </body>,
   "container": <div>
     <div
-      class="sc-hKgILt bKfPST"
+      class="sc-hKgILt ikMfpV"
       id="home"
     >
       <h1
         class="sc-eCssSg Tywgk profile__header"
       />
       <img
-        class="sc-gKsewC TXIOO"
+        class="sc-gKsewC cCEKFw"
         src="profilePic.jpeg"
       />
       <h2
         class="sc-jSgupP chcMgv"
       />
       <div
-        class="sc-dlfnbm kfwvY profile__button"
+        class="sc-dlfnbm cYacxt profile__button"
       >
         <a
           aria-label="button"
@@ -96,7 +96,7 @@ Object {
           Contact
           <svg
             aria-hidden="true"
-            class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz ejdhGU"
+            class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz dCcfzj"
             data-icon="external-link-alt"
             data-prefix="fas"
             focusable="false"
@@ -118,7 +118,7 @@ Object {
           Download CV
           <svg
             aria-hidden="true"
-            class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+            class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz gqysfZ"
             data-icon="external-link-alt"
             data-prefix="fas"
             focusable="false"

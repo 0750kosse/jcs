@@ -9,25 +9,27 @@ import Cv from '../../lib/files/CV.pdf'
 
 const ColToRow = styled.div`
 display:flex;
-flex-direction: row;
+flex-direction: column;
 justify-content: space-evenly;
+align-items: center;
 width:100%;
 ${mediaQueries('tablet')`
-width: 50%;
-margin-left: 7rem;
+flex-direction: row;
+width: 70%;
+margin-left:25%;
 `}
 `
 
 const Container = styled.div`
 display:flex;
 flex-direction: column;
-align-items: center;
 margin-bottom:1rem;
 ${mediaQueries('tablet')`
 flex-flow:row wrap;
 justify-content: space-evenly;
 `}
 `
+
 const Header = styled.h1`
 width:100%;
 text-align: center;
@@ -44,6 +46,7 @@ const Image = styled.img`
 max-width: 15rem;
 height:15rem;
 border-radius: 50%;
+margin:0 auto;
 `
 const scrollToForm = () => {
   scroller.scrollTo("contact-form", {

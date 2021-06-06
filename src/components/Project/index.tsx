@@ -16,12 +16,7 @@ border-radius: 15px;
 box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 ${mediaQueries('tablet')`
 width:45%;
-margin-bottom: 6rem;
-margin-top:-4rem;
-`}
-${mediaQueries('medium')`
-margin-top:-8rem;
-margin-bottom:10rem;
+height: 50vh;
 `}
 ${mediaQueries('xl')`
 width:20%;

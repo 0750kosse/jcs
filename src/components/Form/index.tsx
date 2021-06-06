@@ -12,7 +12,7 @@ padding: 2rem 1rem;
 margin:0 auto;
 width:90%;
 background:white;
-margin-top: -8rem;
+margin-top: -2rem;
 border-radius: 15px;
 `
 const Label = styled.label``

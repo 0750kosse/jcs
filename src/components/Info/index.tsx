@@ -8,8 +8,9 @@ flex-direction: column;
 align-items: center;
 background:black;
 color:white;
-height: 25rem;
+padding-bottom:2rem;
 `
+
 const Title = styled.h1``
 const Info = styled.p`
 font-size: 20px;

@@ -11,7 +11,9 @@ align-items:center;
 ${mediaQueries("tablet")`
 flex-flow:row wrap; 
 justify-content: space-evenly;
-`} `
+margin-top: 1rem;
+`} 
+`
 
 export default () => {
   return (
