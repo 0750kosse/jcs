@@ -6,51 +6,82 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="sc-dlfnbm fJnBsZ"
+        class="sc-hKgILt bKfPST"
         id="home"
       >
         <h1
-          class="sc-hKgILt bcYGRj profile__header"
+          class="sc-eCssSg Tywgk profile__header"
         >
           Front End Dev
         </h1>
         <img
-          class="sc-jSgupP eJwatr"
+          class="sc-gKsewC TXIOO"
           src="profilePic.jpeg"
         />
         <h2
-          class="sc-eCssSg eFvELq"
+          class="sc-jSgupP chcMgv"
         >
           Hey there, I'm Jose! I'm a passionate software developer. Currently living in London and originally from Barcelona. For the past two years, I've been teaching myself to code and currently seeking an entry level Front End Dev role
         </h2>
         <div
-          class="sc-gsTCUz cBZdzr profile__button"
+          class="sc-dlfnbm kfwvY profile__button"
         >
           <a
             aria-label="button"
-            class="sc-bdfBwQ gSrdPW"
+            class="sc-bdfBwQ frUVuY"
             type="primary"
           >
-            Learn More
+            Contact
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz ejdhGU"
+              data-icon="external-link-alt"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              type="primary"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                fill="currentColor"
+              />
+            </svg>
           </a>
           <a
             aria-label="button"
-            class="sc-bdfBwQ dZokzn"
+            class="sc-bdfBwQ abOIX"
           >
-            Contact
+            Download CV
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              data-icon="external-link-alt"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                fill="currentColor"
+              />
+            </svg>
           </a>
         </div>
       </div>
       <div
-        class="sc-gKsewC kQYXXv"
+        class="sc-iBPRYJ bkEkjc"
       >
         <h1
-          class="sc-iBPRYJ"
+          class="sc-fubCfw"
         >
           Projects
         </h1>
         <p
-          class="sc-fubCfw iakdwK"
+          class="sc-pFZIQ cWpMNV"
         >
           Find below a few side projects that I have been building from scratch in which I put to use the different languages learnt. Next stop in my learning bucket list are Python and Svelte, so watch this space…
         </p>
@@ -59,51 +90,82 @@ Object {
   </body>,
   "container": <div>
     <div
-      class="sc-dlfnbm fJnBsZ"
+      class="sc-hKgILt bKfPST"
       id="home"
     >
       <h1
-        class="sc-hKgILt bcYGRj profile__header"
+        class="sc-eCssSg Tywgk profile__header"
       >
         Front End Dev
       </h1>
       <img
-        class="sc-jSgupP eJwatr"
+        class="sc-gKsewC TXIOO"
         src="profilePic.jpeg"
       />
       <h2
-        class="sc-eCssSg eFvELq"
+        class="sc-jSgupP chcMgv"
       >
         Hey there, I'm Jose! I'm a passionate software developer. Currently living in London and originally from Barcelona. For the past two years, I've been teaching myself to code and currently seeking an entry level Front End Dev role
       </h2>
       <div
-        class="sc-gsTCUz cBZdzr profile__button"
+        class="sc-dlfnbm kfwvY profile__button"
       >
         <a
           aria-label="button"
-          class="sc-bdfBwQ gSrdPW"
+          class="sc-bdfBwQ frUVuY"
           type="primary"
         >
-          Learn More
+          Contact
+          <svg
+            aria-hidden="true"
+            class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz ejdhGU"
+            data-icon="external-link-alt"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            type="primary"
+            viewBox="0 0 512 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+              fill="currentColor"
+            />
+          </svg>
         </a>
         <a
           aria-label="button"
-          class="sc-bdfBwQ dZokzn"
+          class="sc-bdfBwQ abOIX"
         >
-          Contact
+          Download CV
+          <svg
+            aria-hidden="true"
+            class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+            data-icon="external-link-alt"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            viewBox="0 0 512 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+              fill="currentColor"
+            />
+          </svg>
         </a>
       </div>
     </div>
     <div
-      class="sc-gKsewC kQYXXv"
+      class="sc-iBPRYJ bkEkjc"
     >
       <h1
-        class="sc-iBPRYJ"
+        class="sc-fubCfw"
       >
         Projects
       </h1>
       <p
-        class="sc-fubCfw iakdwK"
+        class="sc-pFZIQ cWpMNV"
       >
         Find below a few side projects that I have been building from scratch in which I put to use the different languages learnt. Next stop in my learning bucket list are Python and Svelte, so watch this space…
       </p>

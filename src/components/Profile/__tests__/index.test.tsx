@@ -14,7 +14,7 @@ describe('Profile component', () => {
     expect(screen.getByRole('heading', { level: 1 })).toBeInTheDocument()
     expect(screen.getByRole('heading', { level: 2 })).toBeInTheDocument()
     expect(screen.getByRole('img')).toBeInTheDocument()
-    expect(screen.getByText('Learn More')).toBeInTheDocument()
+    expect(screen.getByText('Download CV')).toBeInTheDocument()
     expect(screen.getByText('Contact')).toBeInTheDocument()
   })
 })

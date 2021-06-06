@@ -54,7 +54,6 @@ const scrollToForm = () => {
 }
 
 const CvDownload = (e: any) => {
-  //const pdfUrl = { Cv }
   e.preventDefault();
   window.open(Cv, '_blank')
 }

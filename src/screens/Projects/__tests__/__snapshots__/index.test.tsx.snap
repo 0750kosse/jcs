@@ -6,157 +6,266 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="sc-gKsewC boQHEy project__wrapper"
+        class="sc-iBPRYJ dYvBTa project__wrapper"
+        id="projects"
       >
         <div
-          class="sc-gsTCUz fpWFeS project__wrapper--item"
-          id="projects"
+          class="sc-dlfnbm efzEFd project__wrapper--item"
         >
           <h2
-            class="sc-dlfnbm bTDNWh"
+            class="sc-hKgILt fOCRPP"
           >
             St. Joseph´s
           </h2>
           <h3
-            class="sc-hKgILt hePxsW"
+            class="sc-eCssSg fMBprR"
           >
             A project to revamp the existing church website for a responsive, mobile-first, modern and accessible feel.
           </h3>
           <h4
-            class="sc-eCssSg jEITQI"
+            class="sc-jSgupP dQDbPF"
           >
             HTML, CSS, and Vanilla JS
           </h4>
           <div
-            class="sc-jSgupP cLmBLZ"
+            class="sc-gKsewC jzxyGc"
           >
             <a
               aria-label="button"
-              class="sc-bdfBwQ dZokzn"
-              href="https://demo-stjosephs.netlify.app/"
+              class="sc-bdfBwQ abOIX"
             >
               Live Demo
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                data-icon="external-link-alt"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                  fill="currentColor"
+                />
+              </svg>
             </a>
             <a
               aria-label="button"
-              class="sc-bdfBwQ dZokzn"
-              href="https://github.com/0750kosse/StJosephs"
+              class="sc-bdfBwQ abOIX"
             >
               GitHub
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                data-icon="external-link-alt"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                  fill="currentColor"
+                />
+              </svg>
             </a>
           </div>
         </div>
         <div
-          class="sc-gsTCUz fpWFeS project__wrapper--item"
-          id="projects"
+          class="sc-dlfnbm efzEFd project__wrapper--item"
         >
           <h2
-            class="sc-dlfnbm bTDNWh"
+            class="sc-hKgILt fOCRPP"
           >
             PetBuddy
           </h2>
           <h3
-            class="sc-hKgILt hePxsW"
+            class="sc-eCssSg fMBprR"
           >
             A commercial project building a responsive, writing clean, reusable code for a local pet business.
           </h3>
           <h4
-            class="sc-eCssSg jEITQI"
+            class="sc-jSgupP dQDbPF"
           >
             ReactJs, Typescript, React testing library
           </h4>
           <div
-            class="sc-jSgupP cLmBLZ"
+            class="sc-gKsewC jzxyGc"
           >
             <a
               aria-label="button"
-              class="sc-bdfBwQ dZokzn"
-              href="Coming soon"
+              class="sc-bdfBwQ abOIX"
             >
               Live Demo
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                data-icon="external-link-alt"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                  fill="currentColor"
+                />
+              </svg>
             </a>
             <a
               aria-label="button"
-              class="sc-bdfBwQ dZokzn"
-              href="https://github.com/t0nin0s/petbuddy-website"
+              class="sc-bdfBwQ abOIX"
             >
               GitHub
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                data-icon="external-link-alt"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                  fill="currentColor"
+                />
+              </svg>
             </a>
           </div>
         </div>
         <div
-          class="sc-gsTCUz fpWFeS project__wrapper--item"
-          id="projects"
+          class="sc-dlfnbm efzEFd project__wrapper--item"
         >
           <h2
-            class="sc-dlfnbm bTDNWh"
+            class="sc-hKgILt fOCRPP"
           >
             Netfailx
           </h2>
           <h3
-            class="sc-hKgILt hePxsW"
+            class="sc-eCssSg fMBprR"
           >
             Bored at home...? Check out this movie search engine which uses the Open Movie Database API.
           </h3>
           <h4
-            class="sc-eCssSg jEITQI"
+            class="sc-jSgupP dQDbPF"
           >
             React, Javascript, Jest & Enzyme
           </h4>
           <div
-            class="sc-jSgupP cLmBLZ"
+            class="sc-gKsewC jzxyGc"
           >
             <a
               aria-label="button"
-              class="sc-bdfBwQ dZokzn"
-              href="https://netfailx.netlify.app"
+              class="sc-bdfBwQ abOIX"
             >
               Live Demo
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                data-icon="external-link-alt"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                  fill="currentColor"
+                />
+              </svg>
             </a>
             <a
               aria-label="button"
-              class="sc-bdfBwQ dZokzn"
-              href="https://github.com/0750kosse/movieapp-react"
+              class="sc-bdfBwQ abOIX"
             >
               GitHub
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                data-icon="external-link-alt"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                  fill="currentColor"
+                />
+              </svg>
             </a>
           </div>
         </div>
         <div
-          class="sc-gsTCUz fpWFeS project__wrapper--item"
-          id="projects"
+          class="sc-dlfnbm efzEFd project__wrapper--item"
         >
           <h2
-            class="sc-dlfnbm bTDNWh"
+            class="sc-hKgILt fOCRPP"
           >
             Domino ́s Pizza
           </h2>
           <h3
-            class="sc-hKgILt hePxsW"
+            class="sc-eCssSg fMBprR"
           >
             Hungry after the movie...? Then use my online takeaway pizza application...
           </h3>
           <h4
-            class="sc-eCssSg jEITQI"
+            class="sc-jSgupP dQDbPF"
           >
             Node, Express, Mongoose, AWS, MongoDB
           </h4>
           <div
-            class="sc-jSgupP cLmBLZ"
+            class="sc-gKsewC jzxyGc"
           >
             <a
               aria-label="button"
-              class="sc-bdfBwQ dZokzn"
-              href="https://pizzadominos.herokuapp.com/"
+              class="sc-bdfBwQ abOIX"
             >
               Live Demo
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                data-icon="external-link-alt"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                  fill="currentColor"
+                />
+              </svg>
             </a>
             <a
               aria-label="button"
-              class="sc-bdfBwQ dZokzn"
-              href="https://github.com/0750kosse/restful-pizza"
+              class="sc-bdfBwQ abOIX"
             >
               GitHub
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+                data-icon="external-link-alt"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                  fill="currentColor"
+                />
+              </svg>
             </a>
           </div>
         </div>
@@ -165,157 +274,266 @@ Object {
   </body>,
   "container": <div>
     <div
-      class="sc-gKsewC boQHEy project__wrapper"
+      class="sc-iBPRYJ dYvBTa project__wrapper"
+      id="projects"
     >
       <div
-        class="sc-gsTCUz fpWFeS project__wrapper--item"
-        id="projects"
+        class="sc-dlfnbm efzEFd project__wrapper--item"
       >
         <h2
-          class="sc-dlfnbm bTDNWh"
+          class="sc-hKgILt fOCRPP"
         >
           St. Joseph´s
         </h2>
         <h3
-          class="sc-hKgILt hePxsW"
+          class="sc-eCssSg fMBprR"
         >
           A project to revamp the existing church website for a responsive, mobile-first, modern and accessible feel.
         </h3>
         <h4
-          class="sc-eCssSg jEITQI"
+          class="sc-jSgupP dQDbPF"
         >
           HTML, CSS, and Vanilla JS
         </h4>
         <div
-          class="sc-jSgupP cLmBLZ"
+          class="sc-gKsewC jzxyGc"
         >
           <a
             aria-label="button"
-            class="sc-bdfBwQ dZokzn"
-            href="https://demo-stjosephs.netlify.app/"
+            class="sc-bdfBwQ abOIX"
           >
             Live Demo
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              data-icon="external-link-alt"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                fill="currentColor"
+              />
+            </svg>
           </a>
           <a
             aria-label="button"
-            class="sc-bdfBwQ dZokzn"
-            href="https://github.com/0750kosse/StJosephs"
+            class="sc-bdfBwQ abOIX"
           >
             GitHub
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              data-icon="external-link-alt"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                fill="currentColor"
+              />
+            </svg>
           </a>
         </div>
       </div>
       <div
-        class="sc-gsTCUz fpWFeS project__wrapper--item"
-        id="projects"
+        class="sc-dlfnbm efzEFd project__wrapper--item"
       >
         <h2
-          class="sc-dlfnbm bTDNWh"
+          class="sc-hKgILt fOCRPP"
         >
           PetBuddy
         </h2>
         <h3
-          class="sc-hKgILt hePxsW"
+          class="sc-eCssSg fMBprR"
         >
           A commercial project building a responsive, writing clean, reusable code for a local pet business.
         </h3>
         <h4
-          class="sc-eCssSg jEITQI"
+          class="sc-jSgupP dQDbPF"
         >
           ReactJs, Typescript, React testing library
         </h4>
         <div
-          class="sc-jSgupP cLmBLZ"
+          class="sc-gKsewC jzxyGc"
         >
           <a
             aria-label="button"
-            class="sc-bdfBwQ dZokzn"
-            href="Coming soon"
+            class="sc-bdfBwQ abOIX"
           >
             Live Demo
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              data-icon="external-link-alt"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                fill="currentColor"
+              />
+            </svg>
           </a>
           <a
             aria-label="button"
-            class="sc-bdfBwQ dZokzn"
-            href="https://github.com/t0nin0s/petbuddy-website"
+            class="sc-bdfBwQ abOIX"
           >
             GitHub
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              data-icon="external-link-alt"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                fill="currentColor"
+              />
+            </svg>
           </a>
         </div>
       </div>
       <div
-        class="sc-gsTCUz fpWFeS project__wrapper--item"
-        id="projects"
+        class="sc-dlfnbm efzEFd project__wrapper--item"
       >
         <h2
-          class="sc-dlfnbm bTDNWh"
+          class="sc-hKgILt fOCRPP"
         >
           Netfailx
         </h2>
         <h3
-          class="sc-hKgILt hePxsW"
+          class="sc-eCssSg fMBprR"
         >
           Bored at home...? Check out this movie search engine which uses the Open Movie Database API.
         </h3>
         <h4
-          class="sc-eCssSg jEITQI"
+          class="sc-jSgupP dQDbPF"
         >
           React, Javascript, Jest & Enzyme
         </h4>
         <div
-          class="sc-jSgupP cLmBLZ"
+          class="sc-gKsewC jzxyGc"
         >
           <a
             aria-label="button"
-            class="sc-bdfBwQ dZokzn"
-            href="https://netfailx.netlify.app"
+            class="sc-bdfBwQ abOIX"
           >
             Live Demo
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              data-icon="external-link-alt"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                fill="currentColor"
+              />
+            </svg>
           </a>
           <a
             aria-label="button"
-            class="sc-bdfBwQ dZokzn"
-            href="https://github.com/0750kosse/movieapp-react"
+            class="sc-bdfBwQ abOIX"
           >
             GitHub
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              data-icon="external-link-alt"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                fill="currentColor"
+              />
+            </svg>
           </a>
         </div>
       </div>
       <div
-        class="sc-gsTCUz fpWFeS project__wrapper--item"
-        id="projects"
+        class="sc-dlfnbm efzEFd project__wrapper--item"
       >
         <h2
-          class="sc-dlfnbm bTDNWh"
+          class="sc-hKgILt fOCRPP"
         >
           Domino ́s Pizza
         </h2>
         <h3
-          class="sc-hKgILt hePxsW"
+          class="sc-eCssSg fMBprR"
         >
           Hungry after the movie...? Then use my online takeaway pizza application...
         </h3>
         <h4
-          class="sc-eCssSg jEITQI"
+          class="sc-jSgupP dQDbPF"
         >
           Node, Express, Mongoose, AWS, MongoDB
         </h4>
         <div
-          class="sc-jSgupP cLmBLZ"
+          class="sc-gKsewC jzxyGc"
         >
           <a
             aria-label="button"
-            class="sc-bdfBwQ dZokzn"
-            href="https://pizzadominos.herokuapp.com/"
+            class="sc-bdfBwQ abOIX"
           >
             Live Demo
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              data-icon="external-link-alt"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                fill="currentColor"
+              />
+            </svg>
           </a>
           <a
             aria-label="button"
-            class="sc-bdfBwQ dZokzn"
-            href="https://github.com/0750kosse/restful-pizza"
+            class="sc-bdfBwQ abOIX"
           >
             GitHub
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-external-link-alt fa-w-16 sc-gsTCUz fgVXXG"
+              data-icon="external-link-alt"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"
+                fill="currentColor"
+              />
+            </svg>
           </a>
         </div>
       </div>

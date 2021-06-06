@@ -53,6 +53,9 @@ flex-direction:column;
 margin-bottom:1rem;
 `
 
+const handleClick = (arg: string) => {
+  return window.open(arg, '_blank')
+}
 export default (props: ProjectProps) => {
   const { header, subheader, stack, demo, github } = props
   return (
@@ -61,8 +64,8 @@ export default (props: ProjectProps) => {
       <SubHeader>{subheader}</SubHeader>
       <Paragraph>{stack}</Paragraph>
       <ButtonWrapper>
-        <Button href={demo} target="_blank" rel="noopener" ctaText="Live Demo" />
-        <Button href={github} target="_blank" rel="noopener" ctaText="GitHub" />
+        <Button onClick={() => handleClick(demo)} ctaText="Live Demo" />
+        <Button onClick={() => handleClick(github)} ctaText="GitHub" />
       </ButtonWrapper>
     </Content>
   )
