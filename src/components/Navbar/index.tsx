@@ -34,10 +34,18 @@ width:100%;
 padding:0;
 `
 const LinkScroller = styled(Link)`
+margin: 0 10px;
+padding: 0 10px;
+line-height:2.5;
 list-style-type: none;
 border-bottom:5px solid transparent;
 &.active {
   border-bottom:5px solid red;
+}
+&:hover {
+  color: white;
+  background: red;
+  border-radius:5px;
 }
 `
 const navBarTitles = ['home', 'projects', 'contact']
@@ -57,7 +65,7 @@ const navItems = navBarTitles.map(title => {
   )
 })
 
-export default (props: NavBarProps) => {
+const NavBar = (props: NavBarProps) => {
   const [scrollY, setScrollY] = useState(0);
 
   function handleScroll() {
@@ -83,6 +91,7 @@ export default (props: NavBarProps) => {
   )
 }
 
+export default NavBar;
 
 
 
